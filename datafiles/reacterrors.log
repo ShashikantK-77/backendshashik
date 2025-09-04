@@ -1,0 +1,29 @@
+[2025-09-02T10:38:50.440Z] SymbolSelection.js: Network response was not ok
+[2025-09-02T10:38:54.708Z] SymbolSelection.js: Network response was not ok
+[2025-09-02T10:38:57.325Z] SymbolSelection.js: Network response was not ok
+[2025-09-02T10:38:58.684Z] SymbolSelection.js: Network response was not ok
+[2025-09-02T10:38:59.366Z] SymbolSelection.js: Network response was not ok
+[2025-09-02T10:49:09.497Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-02T10:49:09.512Z] SubscStrategy.js: Failed to fetch data
+[2025-09-02T11:11:48.273Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-02T11:11:48.323Z] SubscStrategy.js: Failed to fetch data
+[2025-09-02T12:01:47.847Z] SubscStrategy.js: Failed to fetch data
+[2025-09-02T12:01:47.920Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-02T12:08:43.669Z] SubscStrategy.js: Failed to fetch data
+[2025-09-02T12:08:43.671Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T04:45:24.115Z] fetchOrders(): HTTP error! Status: 403
+[2025-09-03T04:45:24.127Z] fetchPaperOrders(): HTTP error! Status: 403
+[2025-09-03T04:58:41.694Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T04:58:42.066Z] SubscStrategy.js: Failed to fetch data
+[2025-09-03T05:07:06.882Z] SubscStrategy.js: Failed to fetch data
+[2025-09-03T05:07:06.891Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T05:12:42.322Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T05:12:42.496Z] SubscStrategy.js: Failed to fetch data
+[2025-09-03T05:24:23.433Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T05:24:23.449Z] SubscStrategy.js: Failed to fetch data
+[2025-09-03T10:14:09.393Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-03T10:14:09.406Z] SubscStrategy.js: Failed to fetch data
+[2025-09-04T04:44:06.982Z] fetchOrders(): HTTP error! Status: 403
+[2025-09-04T04:44:06.994Z] fetchPaperOrders(): HTTP error! Status: 403
+[2025-09-04T04:45:01.319Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-04T04:45:02.480Z] SubscStrategy.js: Failed to fetch data
