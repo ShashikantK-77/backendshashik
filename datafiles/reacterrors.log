@@ -27,3 +27,5 @@
 [2025-09-04T04:44:06.994Z] fetchPaperOrders(): HTTP error! Status: 403
 [2025-09-04T04:45:01.319Z] fetchPaperOrders(): HTTP error! Status: 400
 [2025-09-04T04:45:02.480Z] SubscStrategy.js: Failed to fetch data
+[2025-09-30T06:34:43.985Z] fetchPaperOrders(): HTTP error! Status: 400
+[2025-09-30T06:34:44.142Z] SubscStrategy.js: Failed to fetch data
